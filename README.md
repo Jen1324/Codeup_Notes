@@ -8,6 +8,8 @@
 
 Markdown recognizes lists and orders them
 
+---
+
 * first item
 * second item
   *sub item a
